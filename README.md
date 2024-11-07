@@ -1,3 +1,3 @@
 # costureiros
 
-<a href="sitedaescola/index.html">Site</a>
+<a href="sitedaescola/index.html">Sitir</a>
